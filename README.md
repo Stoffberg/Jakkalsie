@@ -4,7 +4,7 @@
 
 👯 Currently programming to add to my resumé, if you want to collaborate, message me 😉
 
-🌱 I’m currently learning Javascript and explanding my Python skills
+🌱 I’m currently a fullstack web developer working as a software technician at Zamaqo.
 
 ### Languages and Tools 🛠️
 
