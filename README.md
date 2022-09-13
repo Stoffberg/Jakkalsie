@@ -19,7 +19,7 @@
 [<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />](https://nodejs.dev/)
 
 ### Github Stats 📈
-[![Jakkalsie's Stats](https://github-readme-stats.vercel.app/api?username=Jakkalsie)](https://github.com/anuraghazra/github-readme-stats)
+[![Jakkalsie's Stats](https://github-readme-stats.vercel.app/api?username=Jakkalsie&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakkalsie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
